@@ -96,7 +96,7 @@ This analysis highlights the diverse outcomes of different therapies and diagnos
 ---
 ##  About Me
 
-This project was created by **Shreya Bhattacharjee**, MSC in data science,Diploma in Data Science and Big Data, an aspiring Data Scientist  and Data Engineer passionate about solving real-world problems through data.
+This project was created by **Shreya Bhattacharjee**, MSC in data science, an aspiring Data Scientist  and Data Engineer passionate about solving real-world problems through data.
 
 Let's connect on [LinkedIn](https://www.linkedin.com/in/shreya-bhattacharjee-47b01129a/) or check out more projects on [GitHub](https://github.com/bhshre).
 
